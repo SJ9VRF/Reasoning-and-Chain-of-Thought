@@ -1,4 +1,4 @@
-
+# additional scenarios for the LangchainReActAgent class, including handling multiple questions and agent errors.
 # tests/test_langchain_agent.py
 
 import unittest
