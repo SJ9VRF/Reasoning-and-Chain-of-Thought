@@ -1,3 +1,5 @@
+# Implements Chain of Thought prompting.
+
 # src/chain_of_thought.py
 
 from llm_interface import LLMInterface
