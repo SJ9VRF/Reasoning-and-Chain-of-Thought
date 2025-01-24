@@ -1,3 +1,4 @@
+# Tests for the LLMInterface class in llm_interface.py.
 # tests/test_llm_interface.py
 
 import unittest
