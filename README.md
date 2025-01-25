@@ -19,15 +19,25 @@
 
 ### Prerequisites
 
-- **Python 3.8+**: Ensure you have Python installed. You can download it from [here](https://www.python.org/downloads/).
 - **Google Cloud Account**: Required for accessing Vertex AI.
 - **Google Cloud SDK**: Install and initialize the [Google Cloud SDK](https://cloud.google.com/sdk/docs/install).
 
 ### Steps
 
 1. **Clone the Repository**
-
    ```bash
    git clone https://github.com/yourusername/advanced_prompting.git
    cd advanced_prompting
+   ```
+   
+2. **Create a Virtual Environment (Optional but Recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+   
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
    ```
